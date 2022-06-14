@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>myres.qrc</file>
+  </qresource>
+</RCC>
